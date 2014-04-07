@@ -32,5 +32,6 @@ You may also compile a binary yourself with the **latest development code**.
 
 # External Links
 
+- [NetBeans Plugin Page](http://plugins.netbeans.org/plugin/54378/?show=true) : NetBeans Plugin Center
 - [Batik SVG](http://xmlgraphics.apache.org/batik/) : SVG support.
 
